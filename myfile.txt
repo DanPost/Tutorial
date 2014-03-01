@@ -1,1 +1,1 @@
-git checkout develop
+日本語テスト
